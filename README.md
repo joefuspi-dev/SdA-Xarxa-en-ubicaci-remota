@@ -1,55 +1,32 @@
-# Instal·lació xarxa de dades en ubicació remota
+# Instal·lació d’una xarxa de dades en ubicació remota
 
-Desenvolupament d'una situació d'aprenentatge de nivell bàsic.
+S’ha dissenyat una situació d’aprenentatge amb un enfocament eminentment competencial, on la teoria s’introdueix de manera ajustada a les necessitats concretes de cada fase del projecte. D’aquesta manera, l’alumnat participa activament en totes les sessions mitjançant activitats pràctiques i contextualitzades.
 
----
+La proposta combina treball individual i col·laboratiu, fomentant tant l’autonomia com el treball en equip, i inclou activitats d’ampliació per adaptar-se als diferents ritmes d’aprenentatge i afavorir la motivació de l’alumnat.
 
-## 1. Introducció
-A continuació, es desenvolupa una situació d'aprenentatge de nivell bàsic, emmarcada en el context de les telecomunicacions. Aplicable al mòdul professional d’Instal·lacions i manteniment de xarxes per a la transmissió de dades (3016).
+## Objectius del projecte
 
-### 1.1 Objectiu general
-Crear una xarxa de dades en un emplaçament on no hi ha accés a fibra.
+Aquest és un projecte en què l’alumnat dissenyarà una xarxa de telecomunicacions en una ubicació remota amb cobertura 4G i executarà la instal·lació al taller.
 
-### 1.2 Objectius específics
-1. Es pretén que l’alumnat investigue:
-- Quins operadors de telefonia tenen cobertura en la ubicació elegida.
-- Trobar les dades APN de l’operador triat.
+Aquesta xarxa haurà de disposar d’equips fixos connectats i una xarxa per a hostes. Com a activitat extra, es proposarà la instal·lació d’una antena externa per a millorar la cobertura.
 
-2. Es crearà la documentació següent:
-- Llista de materials.
-- Llista d’eines.
+El context elegit per a la situació d’aprenentatge és un refugi de muntanya. El refugi triat en aquest cas, **La Figuereta**, es situa a la Vall d’Ebo, on hi ha cobertura però no arriba la fibra.
 
-3. Configuració del router.
+## Repositori
 
-4. Instal·lació del projecte en un panell.
+Al repositori es pot trobar:
 
-5. Anàlisi de les diferents possibles solucions davant avaries.
+- Una **guia docent**, que descriu per punts els terminis d’avaluació, les tasques a entregar, la documentació a generar, la programació, la teoria i la cronologia de les tasques, així com la dinàmica competencial que es busca.
 
----
+- Una **guia de l'alumnat**, que serveix com a pràctica guiada per saber en tot moment on està i cap a on va dirigit l'aprenentatge, amb les rúbriques incorporades per conéixer en tot moment les pautes concretes per obtindre un bon treball.
 
-## 2. Guia docent
-En aquest apartat es pot trobar una plantilla de la situació d’aprenentatge i una guia per poder modificar-la.
+- La **plantilla de la situació d’aprenentatge** emplenada, amb els resultats d’aprenentatge i criteris d’avaluació, a més de:
+  - Proposta metodològica  
+  - Proposta d’avaluació  
+  - Seqüència d’activitats amb temporalització  
+  - Organització d’espais  
+  - Anàlisi de l’adaptació DUA  
 
-### 2.1 Metodologia
+- Un **full de càlcul** amb criteris d’avaluació relacionats amb les tasques i les seues ponderacions, així com les rúbriques.
 
-
-### 2.2 Recursos utilitzats
-- Ordinador
-- Programari
-- Documentació oficial de GitHub (https://github.com)
-
----
-
-## 3. Presentacions
-
-### 3.1 Situació d’aprenentatge
-
-| Prova | Descripció     | Resultat |
-|------|----------------|----------|
-| 1    | Test inicial   | Correcte |
-| 2    | Test intermig  | Correcte |
-| 3    | Test final     | Òptim    |
-
-
-
-![Exemple d’imatge](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+- Finalment, es poden trobar **dues presentacions** per introduir el projecte.
