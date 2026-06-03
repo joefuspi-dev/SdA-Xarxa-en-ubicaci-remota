@@ -30,3 +30,6 @@ Al repositori es pot trobar:
 - Un **full de càlcul** amb criteris d’avaluació relacionats amb les tasques i les seues ponderacions, així com les rúbriques.
 
 - Finalment, es poden trobar **dues presentacions** per introduir el projecte.
+
+- ##
+- Vídeo de presentació: https://youtu.be/ZFW5I833Zd4
